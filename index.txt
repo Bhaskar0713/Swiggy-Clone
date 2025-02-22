@@ -267,7 +267,7 @@ alt = What Do You Think About Cheese Pizza Recipes?
 Pizza
 
 <ion-icon name="calendar-outline"></ion-icon>
-Jan 01 2022
+Jan 01 2025
 
 <ion-icon name="person-outline"></ion-icon>
 Jonathan Smith
@@ -336,7 +336,7 @@ placeholder = Message
 
 Book a Table
 
-&copy; 2022 bhaskarnakka All Rights Reserved.
+&copy; 2025 bhaskarnakka All Rights Reserved.
 
 
 
